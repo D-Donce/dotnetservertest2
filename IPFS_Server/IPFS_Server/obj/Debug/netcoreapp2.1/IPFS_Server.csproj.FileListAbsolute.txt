@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\bin\Debug\netcoreapp2.1\IPFS_Server.deps.json
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\bin\Debug\netcoreapp2.1\IPFS_Server.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\bin\Debug\netcoreapp2.1\IPFS_Server.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\bin\Debug\netcoreapp2.1\IPFS_Server.dll
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.RazorAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.RazorAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\bin\Debug\netcoreapp2.1\IPFS_Server.pdb
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.dll
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.pdb
+C:\Users\Lenovo\OneDrive\바탕 화면\IPFS_Server\IPFS_Server\obj\Debug\netcoreapp2.1\IPFS_Server.csproj.Fody.CopyLocal.cache
