@@ -14,7 +14,7 @@ namespace IPFS_Server.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "https://localhost:44392/api/Hashs <- 요링크 클릭" };
+            return new string[] { "https://localhost:44392/api/Hashs  ,  https://localhost:44392/api/Hashs/5" };
         }
 
         // GET api/values/5
@@ -24,22 +24,5 @@ namespace IPFS_Server.Controllers
             return "value";
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }
